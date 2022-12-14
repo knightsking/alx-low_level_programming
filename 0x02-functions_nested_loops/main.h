@@ -1,5 +1,5 @@
-#ifndef main_h
-#define main_h
+#ifndef MAIN_H
+#define MAIN_H
 /** This file includes putchar decalration
 * and prototypes fpr this project
 */
